@@ -1,4 +1,4 @@
-#Instructions
+# Instructions
 
 1. Add hvm.vim to ~/.config/nvim/syntax/hvm/
 2. Add the following snipet to your `init.lua`
